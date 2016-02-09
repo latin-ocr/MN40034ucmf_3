@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40034ucmf_3_0468.png"; bbox 0 0 2068 3216; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 494 1126 624 1171">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 494 1126 624 1171">
+     <span class='ocr_line' id='line_1_1' title="bbox 494 1126 624 1171; baseline 0.015 -2"><span class='ocrx_word' id='word_1_1' title='bbox 494 1126 624 1171; x_wconf 88' lang='lat' dir='ltr'><strong>CODICES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 316 1266 840 1410">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 316 1266 840 1410">
+     <span class='ocr_line' id='line_1_2' title="bbox 316 1266 840 1328; baseline 0.019 -20"><span class='ocrx_word' id='word_1_2' title='bbox 316 1266 338 1308; x_wconf 91' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_3' title='bbox 349 1287 373 1302; x_wconf 96' lang='lat'>=</span> <span class='ocrx_word' id='word_1_4' title='bbox 387 1266 500 1312; x_wconf 79' lang='lat' dir='ltr'><em>Vaticanus</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 518 1270 633 1327; x_wconf 74' lang='lat' dir='ltr'><em>Reginensis</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 653 1287 714 1328; x_wconf 78' lang='lat'>1357,</span> <span class='ocrx_word' id='word_1_7' title='bbox 732 1288 769 1317; x_wconf 79' lang='lat' dir='ltr'><em>sec.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 788 1275 840 1318; x_wconf 89' lang='lat' dir='ltr'>XII.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 320 1349 800 1410; baseline 0.021 -19"><span class='ocrx_word' id='word_1_9' title='bbox 320 1349 338 1392; x_wconf 93' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_10' title='bbox 349 1370 373 1385; x_wconf 95' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 384 1350 491 1395; x_wconf 80' lang='lat' dir='ltr'><em>Parisinus</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 504 1352 594 1397; x_wconf 78' lang='lat' dir='ltr'><em>Latinus</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 608 1355 683 1410; x_wconf 81' lang='lat'><strong>12606‚</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 696 1372 733 1400; x_wconf 81' lang='lat' dir='ltr'><em>sec.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 748 1359 800 1402; x_wconf 92' lang='lat' dir='ltr'><strong>XII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1038 3216">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1038 3216">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1038 3216; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1038 3216; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
